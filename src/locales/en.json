@@ -1,0 +1,426 @@
+{
+  "brand": {
+    "name": "AIRY PLANE",
+    "subtitle": "Graphic Design School"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Curriculum",
+    "teacher": "Instructor",
+    "packages": "Tuition Plans",
+    "faq": "FAQ",
+    "telegram": "Telegram",
+    "login": "Log In",
+    "my_cabinet": "My Cabinet",
+    "cabinet": "Student Portal",
+    "admin": "Admin Desk",
+    "logout": "Log Out",
+    "select_package": "Choose Plan"
+  },
+  "hero": {
+    "title_main": "Design",
+    "badge": "Enrollment for the new cohort is open",
+    "school_badge": "Airy Plane — Online Graphic Design School",
+    "heading": "Graphic Design from Ground Zero",
+    "subheading": "1.5 months (6 weeks) of intensive mentorship with an honors graduate of Moscow State University",
+    "description": "Learn online, build portfolio projects, and receive personalized feedback from your mentor.",
+    "cta_package": "Choose Your Plan",
+    "cta_login": "Student Sign In",
+    "tag_online": "Online, from anywhere",
+    "tag_beginners": "For beginners, no experience needed",
+    "tag_portfolio": "Projects for portfolio",
+    "benefit_1": "1.5 months (6 weeks) hands-on",
+    "benefit_2": "Portfolio from scratch",
+    "benefit_3": "Personal mentorship"
+  },
+  "about": {
+    "tag": "Comprehensive Curriculum",
+    "title": "6 Weeks of Immersive Creative Training",
+    "subtitle": "From visual communication and grid foundations to digital graphics, brand mini-identity, and portfolio showcase.",
+    "duration": "Duration: 1.5 months (6 weeks)",
+    "format": "Format: Online, for adults",
+    "syllabus_tab_title": "Course syllabus · 6 weeks",
+    "syllabus_tab_hint_open": "Click to view",
+    "syllabus_tab_hint_close": "Click to collapse",
+    "teacher_works_title": "Teacher's work",
+    "work_coming_soon": "Work coming soon",
+    "open_fullscreen": "Open fullscreen",
+    "next_work": "Next work",
+    "prev_work": "Previous work",
+    "click_to_next": "Click to view next work",
+    "program_module_1_title": "Weeks 1–3",
+    "program_module_1_desc": "Composition, Grids & Typography",
+    "program_module_2_title": "Weeks 4–6",
+    "program_module_2_desc": "Photoshop, Illustrator & Branding",
+    "takeaways_tag": "Course Outcomes",
+    "takeaways_title": "What You Will Get",
+    "takeaways_subtitle": "Tangible real-world projects ready to impress clients and employers",
+    "takeaways": [
+      {
+        "title": "5 Mini-Projects",
+        "desc": "Moodboard, grid-based social media post series, editorial layout/poster, digital artwork, and icon/pattern set."
+      },
+      {
+        "title": "1 Final Capstone Portfolio Project",
+        "desc": "Complete brand mini-identity: logo mark, color scheme, typography pairing, and 3 mockups in real applications."
+      },
+      {
+        "title": "Core Skills in Photoshop & Illustrator",
+        "desc": "Hands-on proficiency with essential industry tools for both raster and vector design workflows."
+      },
+      {
+        "title": "Foundational Grasp of Composition, Typography & Branding",
+        "desc": "Trained visual taste, structured design thinking, and confidence in presenting solutions based on real briefs."
+      }
+    ],
+    "weeks": [
+      {
+        "week": 1,
+        "title": "Visual Communication & References",
+        "topics": [
+          "Mechanics of visual communication",
+          "Developing aesthetic awareness and taste",
+          "Target audience portrait"
+        ],
+        "project": "Moodboard",
+        "desc": "Mechanics of visual communication, developing aesthetic awareness, target audience portrait. Project: Moodboard."
+      },
+      {
+        "week": 2,
+        "title": "Composition & Grids",
+        "topics": [
+          "Composition fundamentals",
+          "Grid systems in layout design",
+          "Articulating and defending design choices"
+        ],
+        "project": "Fix a weak layout and design 3 social media posts",
+        "desc": "Composition fundamentals, grid systems in layout design, articulating design choices. Project: Fix a weak layout and design 3 social media posts."
+      },
+      {
+        "week": 3,
+        "title": "Typography & Working with Text",
+        "topics": [
+          "Font pairing and visual hierarchy",
+          "Type size, leading, line length",
+          "Working with client briefs"
+        ],
+        "project": "Typeset an editorial article or poster",
+        "desc": "Font pairing and hierarchy, type size, leading, line length, working with briefs. Project: Typeset an article or poster."
+      },
+      {
+        "week": 4,
+        "title": "Color & Imagery",
+        "topics": [
+          "Color theory and harmonic palettes",
+          "Sourcing and retouching imagery",
+          "Workflow in Adobe Photoshop"
+        ],
+        "project": "Digital Poster",
+        "desc": "Color fundamentals, sourcing and editing images, Adobe Photoshop workflow. Project: Digital Poster."
+      },
+      {
+        "week": 5,
+        "title": "Vector Graphics in Adobe Illustrator",
+        "topics": [
+          "Vector icon construction",
+          "Seamless surface patterns",
+          "Illustration stylization"
+        ],
+        "project": "Icon set and seamless pattern",
+        "desc": "Vector icons, patterns, illustration stylization. Project: Icon set and seamless pattern."
+      },
+      {
+        "week": 6,
+        "title": "Branding & Portfolio",
+        "topics": [
+          "Brand corporate identity systems",
+          "Logotype and brandmark",
+          "Portfolio presentation"
+        ],
+        "project": "Final Project: Brand mini-identity (logo, colors, fonts, 3 application mockups)",
+        "desc": "Corporate identity systems, logotype and brandmark, portfolio presentation. Final Project: Brand mini-identity (logo, colors, fonts, 3 application mockups)."
+      }
+    ]
+  },
+  "teacher": {
+    "tag": "About the Instructor",
+    "role": "Graphic Designer",
+    "pills": [
+      "Honors Degree, Moscow",
+      "Experience at a Major Cosmetics Company",
+      "Hands-on Practice with Real Projects"
+    ],
+    "paragraphs": [
+      "My name is Karina, and I am a graphic designer.",
+      "I studied at a Moscow university from 2017 to 2025 and graduated with an honors degree. Throughout this time, I worked at a major cosmetics company: not just laying out banners, but tackling real-world branding, packaging, and visual communication challenges every single day.",
+      "I teach because I know what it feels like to learn design from ground zero. I once wished someone would break everything down clearly without drowning me in jargon. This course is built exactly that way: fluff-free, practical, and focused on why every detail matters.",
+      "This course is ideal for anyone who wants to break into graphic design without chaos or unnecessary theory: featuring a crystal-clear structure and assignments closely modeled on real-world projects."
+    ],
+    "cta_packages": "Choose Your Plan"
+  },
+  "packages": {
+    "tag": "Tuition Plans",
+    "title": "Select the Right Tier for You",
+    "subtitle": "Access to all learning materials is unlocked for 5 months upon payment verification",
+    "popular_badge": "Most Popular",
+    "select_btn": "Select Plan",
+    "current_btn": "Your Plan",
+    "currency_switcher": {
+      "usd": "USD ($)",
+      "tjs": "TJS (somoni)",
+      "rub": "RUB (₽)"
+    },
+    "currency_disclaimer": "Prices in USD and RUB are approximate and based on the somoni price.",
+    "basic": {
+      "name": "Basic",
+      "price": "$76 (700 somoni)",
+      "price_tjs": "700 somoni ($76)",
+      "desc": "All 6 weeks in PDF format for self-paced independent learning",
+      "features": [
+        "All 6 weeks of the course in PDF format",
+        "Assignments and self-check checklist",
+        "5 months access to all course materials",
+        "No instructor critique or Zoom calls"
+      ]
+    },
+    "standard": {
+      "name": "Standard",
+      "price": "$162 (1500 somoni)",
+      "price_tjs": "1,500 somoni ($162)",
+      "desc": "Optimal balance with feedback on key projects and Zoom sessions",
+      "features": [
+        "Everything included in the Basic tier",
+        "2 critique sessions (Week 3 project and Final project)",
+        "2 live Zoom coaching calls (end of Week 3 and Week 6)",
+        "5 months access to course materials"
+      ]
+    },
+    "pro": {
+      "name": "Pro",
+      "price": "$271 (2500 somoni)",
+      "price_tjs": "2,500 somoni ($271)",
+      "desc": "Maximum mentorship with personal guidance and calls",
+      "features": [
+        "Everything included in the Standard tier",
+        "10 in-depth homework critique reviews",
+        "10 personal one-on-one Zoom coaching calls",
+        "Full end-to-end final project curation",
+        "5 months access to course materials"
+      ]
+    }
+  },
+  "faq": {
+    "tag": "Knowledge Base",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know before starting your journey",
+    "items": [
+      {
+        "q": "How long does the training last?",
+        "a": "The course lasts 1.5 months (6 weeks). Over this period, you will complete 6 weeks of structured practice: 5 mini-projects and 1 final capstone portfolio project. Full access to course materials is maintained for 5 months upon payment verification."
+      },
+      {
+        "q": "Can I enroll if I have zero prior drawing or design experience?",
+        "a": "Absolutely. The course starts from absolute ground zero. Freehand drawing skills are not required; we focus on digital tools, typography, and visual rules."
+      },
+      {
+        "q": "What software will we be using?",
+        "a": "We use Figma (free, browser-based or desktop app) and Adobe Illustrator. Detailed installation instructions are provided in Week 1."
+      },
+      {
+        "q": "How long will I retain access to the materials?",
+        "a": "You will have continuous access to all curriculum materials and PDFs for 5 months from the date of payment confirmation."
+      },
+      {
+        "q": "How does payment and enrollment verification work?",
+        "a": "After selecting your tier, transfer details are displayed. Complete the bank/card transfer and send the receipt to the instructor via Telegram (+992 116 41 61 52). Access is activated manually in the admin desk."
+      },
+      {
+        "q": "How do Zoom calls take place?",
+        "a": "For Standard and Pro tiers, we arrange convenient meeting times via Telegram. During 45–60 minute sessions, we thoroughly review your assignments and live Figma files."
+      }
+    ]
+  },
+  "telegram_banner": {
+    "title": "Have questions or need consultation?",
+    "subtitle": "Message me directly on Telegram — I will guide you through the syllabus and help choose the ideal tier.",
+    "button": "Ask on Telegram",
+    "phone": "+992 116 41 61 52"
+  },
+  "payment_modal": {
+    "title": "Payment Instructions",
+    "subtitle": "Selected Tier:",
+    "pending_notice": "After completing the transfer, your enrollment status will change to 'Active' as soon as confirmed by the teacher.",
+    "requisites_title": "Transfer Details:",
+    "card_recipient": "Beneficiary: Munisa M.",
+    "card_tjs": "Korti Milli / DCB: 9920 0011 6416 1520",
+    "card_rub": "Sber / T-Bank: +992 116 41 61 52 (via phone number)",
+    "step_1": "1. Transfer the fee for the selected plan using the credentials above.",
+    "step_2": "2. Save the transaction receipt or screenshot.",
+    "step_3": "3. Message me on Telegram with your receipt and registered email.",
+    "copied": "Copied to clipboard!",
+    "copy_btn": "Copy Transfer Requisites",
+    "open_tg": "Message on Telegram (+992 116 41 61 52)",
+    "close": "Got it, I will pay later"
+  },
+  "auth": {
+    "login_title": "Sign In to Student Portal",
+    "register_title": "Create Student Account",
+    "reset_title": "Reset Password",
+    "name_label": "Full Name",
+    "name_placeholder": "Munisa Karimova",
+    "email_label": "Email Address",
+    "email_placeholder": "you@example.com",
+    "password_label": "Password",
+    "password_placeholder": "Minimum 6 characters",
+    "login_btn": "Sign In",
+    "register_btn": "Create Account",
+    "reset_btn": "Send Reset Link",
+    "have_account": "Already have an account? Sign in",
+    "no_account": "Don't have an account yet? Register",
+    "forgot_pass": "Forgot password?",
+    "back_to_login": "Back to login",
+    "confirm_email_notice": "A verification email has been sent. Please check your inbox and spam folders.",
+    "logout_confirm": "Are you sure you want to sign out?"
+  },
+  "cabinet": {
+    "title": "Student Portal",
+    "welcome": "Welcome",
+    "package_info": "Enrolled Plan:",
+    "access_until": "Access Valid Until:",
+    "status_active": "Enrollment Active",
+    "status_pending": "Awaiting Payment Confirmation",
+    "pending_desc": "You selected a tier, but payment has not yet been confirmed by the instructor. Please send your transfer receipt via Telegram.",
+    "pay_details_btn": "View Payment Requisites",
+    "tabs": {
+      "lessons": "Course Lessons",
+      "assignments": "Homework Assignments",
+      "feedback_zoom": "Feedback & Zoom"
+    },
+    "lessons_empty": "Lessons are currently being uploaded by the instructor.",
+    "download_pdf": "Download Materials (PDF)",
+    "no_pdf": "PDF material is being prepared",
+    "assignments_empty": "Assignments have not been published yet.",
+    "submit_work": "Submit Assignment",
+    "your_answer": "Your Submission Notes & Context:",
+    "answer_placeholder": "Describe your creative decisions, provide links to Figma or cloud drive...",
+    "file_label": "Attach File (Image or PDF up to 10 MB):",
+    "uploading": "Uploading file...",
+    "send_btn": "Submit Assignment",
+    "sending": "Submitting...",
+    "submission_status": "Status:",
+    "status_sent": "Submitted for Review",
+    "status_reviewed": "Reviewed by Instructor",
+    "teacher_feedback": "Instructor Feedback:",
+    "no_feedback_yet": "Your mentor will review your work shortly with detailed critique.",
+    "zoom_section": {
+      "title": "Personal Mentorship & Zoom Calls",
+      "feedback_left": "Remaining Homework Critiques:",
+      "zoom_left": "Remaining 1-on-1 Zoom Calls:",
+      "next_zoom": "Next Scheduled Session:",
+      "no_zoom_scheduled": "Meeting times are coordinated directly via Telegram.",
+      "book_zoom_btn": "Message on Telegram to Schedule Call"
+    },
+    "progress": {
+      "title": "Course Progress",
+      "week_label": "Week {week} of 6",
+      "tasks_completed": "Completed assignments: {done} of 6",
+      "all_completed": "All 6 assignments completed! Excellent work!"
+    },
+    "checklist": {
+      "title": "Self-Check Checklist (Basic Tier)",
+      "desc": "In the Basic tier, you study lessons and complete projects independently. Verify your work against the criteria below and mark your completion:",
+      "mark_as_done": "Mark Assignment as Completed",
+      "marked_done": "Assignment Completed ✓",
+      "criteria_title": "Self-Evaluation Checklist:"
+    }
+  },
+  "admin": {
+    "title": "Instructor Admin Desk",
+    "subtitle": "Manage students, payment verifications, lessons, and homework grading",
+    "tabs": {
+      "students": "Students & Billing",
+      "lessons": "Curriculum Lessons",
+      "assignments": "Homework Tasks",
+      "submissions": "Homework Reviews"
+    },
+    "search_placeholder": "Search by name or email...",
+    "confirm_payment_btn": "Verify Payment (+5 mo.)",
+    "payment_confirmed": "Payment Verified",
+    "status_active": "Active",
+    "status_pending": "Pending Payment",
+    "add_lesson": "Add Lesson",
+    "edit_lesson": "Edit Lesson",
+    "lesson_title": "Lesson Title",
+    "lesson_week": "Week Number (1-6)",
+    "lesson_desc": "Lesson Description",
+    "lesson_pdf": "PDF Link or Storage Path",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "add_assignment": "Add Assignment",
+    "assignment_title": "Assignment Topic",
+    "assignment_week": "Week",
+    "assignment_desc": "Student Instructions",
+    "submissions_list": "Student Homework Submissions",
+    "student_name": "Student",
+    "task": "Assignment",
+    "date": "Submitted Date",
+    "view_file": "Open Attached File",
+    "review_modal_title": "Review Student Submission",
+    "teacher_comment_label": "Your Critique & Actionable Advice:",
+    "mark_reviewed": "Mark as Reviewed",
+    "counters_management": "Feedback & Zoom Counters:",
+    "feedback_count": "Critiques:",
+    "zoom_count": "Zoom Calls:"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "empty": "No data found",
+    "close": "Close",
+    "save": "Save",
+    "telegram_number": "+992 116 41 61 52",
+    "currency": "$"
+  },
+  "footer": {
+    "desc": "Original graphic design course from ground zero. Mentored by an honors graduate from Moscow, building your creative portfolio and kicking off your career.",
+    "links_title": "Navigation",
+    "contacts_title": "Contact",
+    "rights": "All rights reserved."
+  },
+  "login_page": {
+    "welcome": "Welcome",
+    "choose_role": "Choose who you are",
+    "i_am_student": "I'm a student",
+    "student_desc": "Studying the course",
+    "i_am_teacher": "I'm a teacher",
+    "teacher_desc": "Conducting classes",
+    "teacher_access_notice": "Teacher accounts are created by the school administrator. If you do not have access, message us on Telegram",
+    "teacher_telegram_btn": "Message on Telegram (+992 116 41 61 52)",
+    "no_teacher_access": "No teacher access for this email. Please log in as a student",
+    "switch_to_student_btn": "Log in as student",
+    "email_label": "Email",
+    "password_label": "Password",
+    "login_btn": "Log In",
+    "forgot_password": "Forgot password?",
+    "no_account_register": "No account? Sign up",
+    "have_account_login": "Already have an account? Log in",
+    "register_title": "Account Registration",
+    "register_title_teacher": "Teacher Registration",
+    "register_subtitle": "Create an account to access the platform",
+    "register_subtitle_teacher": "Create a teacher account to manage the course",
+    "name_label": "Your Name",
+    "register_btn": "Sign Up",
+    "reset_title": "Reset Password",
+    "reset_subtitle": "Enter your email to receive a password reset link",
+    "reset_btn": "Send Link",
+    "back_to_login": "Back to login",
+    "back_to_home": "Back to Home",
+    "invalid_credentials": "Incorrect email or password. Please verify your credentials.",
+    "access_denied": "Access Denied",
+    "access_denied_teacher": "No access to the teacher panel. You were redirected to your student cabinet.",
+    "access_denied_student": "No access to the student cabinet. You were redirected to the teacher panel.",
+    "login_required": "Please log in to your account."
+  }
+}

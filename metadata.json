@@ -1,0 +1,9 @@
+{
+  "name": "Школа графического дизайна | AIRY PLANE",
+  "description": "Курс графического дизайна с нуля. 1,5 месяца (6 недель) онлайн-обучения с преподавателем — выпускницей московского университета с красным дипломом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
